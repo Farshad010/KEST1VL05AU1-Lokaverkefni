@@ -22,5 +22,5 @@ Ef þú vilt læsa aðgangi Erlendar og Erla, getur þú keyrt þessar skipanir:
 `sudo usermod -L erla`
 
 ### 4. Virkja aðgang Erlendar og Erla aftur
-`sudo usermod -U erlendur`
-`sudo usermod -U erla`
+<`sudo usermod -U erlendur`>
+<`sudo usermod -U erla`>
