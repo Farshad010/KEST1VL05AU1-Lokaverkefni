@@ -1,13 +1,15 @@
-# KEST1VL05AU1 - Final Project Report
+# KEST1VL05AU1 - Lokaverkefni
 
-## Daily Log
-- **Day 1:** Created user accounts and groups.
-- **Day 2:** Set up permissions for directories.
-- **Day 3:** Configured home directories and locked accounts.
-- **Day 4:** Installed Zsh and configured sudo for Áslaug.
+## Dagbók
+- **Dagur 1:** Búið til notendareikninga og hópa.
+- **Dagur 2:** Stillt réttindi fyrir möppur.
+- **Dagur 3:** Stillt heimasvæði og læst reikningum.
+- **Dagur 4:** Uppsett Zsh og stillt sudo fyrir Áslaug.
 
-## Instructions for Áslaug
-### How to Create a New User:
-1. Run:
-   ```bash
-   sudo useradd -m -s /bin/bash -c "Full Name" username
+## Leiðbeiningar fyrir Áslaug
+
+### 1. Hvernig á að búa til nýjan notanda:
+Til að búa til nýjan notanda með viðeigandi heimasvæði og skel, notaðu eftirfarandi skipun:
+```bash
+sudo useradd -m -s /bin/bash -c "Fullt Nafn" notendanafn
+
