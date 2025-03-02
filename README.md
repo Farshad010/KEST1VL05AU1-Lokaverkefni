@@ -1,7 +1,7 @@
 # KEST1VL05AU1--Lokaverkefni-Skjáskot
 
 1. Skjáskot (e. screenshot) af GÖGN möpputrénu `sudo ls -alR`.  
-![GÖGN möpputrénu](https://github.com/user-attachments/assets/c513fd3d-a342-4ad8-8aa1-bbf435aadff8)  
+![GÖGN möpputrénu](https://github.com/user-attachments/assets/d6d86fef-5f33-46f9-8fe8-75a914bd6bef)
 
 2. Skjáskot af passwd skránni `tail /etc/passwd`.  
 ![passwd skránni](https://github.com/user-attachments/assets/79e633e0-7f16-47aa-95b5-5d6b0bed0723)  
