@@ -11,5 +11,5 @@
 ### 1. Hvernig á að búa til nýjan notanda:
 Til að búa til nýjan notanda með viðeigandi heimasvæði og skel, notaðu eftirfarandi skipun:
 ```bash
-sudo useradd -m -s /bin/bash -c "Fullt Nafn" notendanafn
-kdjfkdkd
+sudo useradd -m -s /bin/bash -c "Fullt Nafn" notendanafn ```
+jdkfdidjjdsd
