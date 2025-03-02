@@ -1,4 +1,4 @@
-# KEST1VL05AU1--Lokaverkefni-Skjáskot
+# KEST1VL05AU1-Lokaverkefni-Skjáskot
 
 1. Skjáskot (e. screenshot) af GÖGN möpputrénu `sudo ls -alR`.  
 ![GÖGN möpputrénu](https://github.com/user-attachments/assets/d6d86fef-5f33-46f9-8fe8-75a914bd6bef)
