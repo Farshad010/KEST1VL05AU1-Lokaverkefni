@@ -1,4 +1,4 @@
-# KEST1VL05AU1 - Lokaverkefni
+# KEST1VL05AU1 - Lokaverkefni     VEL GERT, leiðbeiningar Áslaugar hefðu þó mátt vera í sérskrá
 
 ## Dagbók
 - **Dagur 1:** Búið til notendareikninga og hópa.
